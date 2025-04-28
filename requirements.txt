@@ -1,0 +1,10 @@
+streamlit
+yfinance
+matplotlib
+pandas
+numpy
+python-dotenv
+langchain
+langchain_groq
+newsapi-python
+textBlob 
