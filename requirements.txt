@@ -7,4 +7,4 @@ python-dotenv
 langchain
 langchain_groq
 newsapi-python
-textBlob 
+vaderSentiment 
