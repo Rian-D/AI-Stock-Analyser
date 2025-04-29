@@ -21,9 +21,17 @@ Skills Acquired:
 - Strengthened skills in Python, data manipulation, and deploying interactive AI apps
 
 ![image](https://github.com/user-attachments/assets/033be882-ca13-4368-b634-0dd6e92ae0ae) (HEADER)
+
+
 ![image](https://github.com/user-attachments/assets/67af588b-11e6-417f-85d4-ecd7cd7476ca) (AI ANALYSIS)
+
+
 ![image](https://github.com/user-attachments/assets/dc1f1d05-c3bb-4312-accd-7eeb7c3a07bd) (TECHNICAL ANALYSIS)
+
+
 ![image](https://github.com/user-attachments/assets/5581a4eb-d449-4857-aac6-3223276f047f) (NEWS & SENTIMENT ANALYSIS)
+
+
 ![image](https://github.com/user-attachments/assets/2d7eb865-377d-4c4a-a701-bc284d241a3c) (RAW DATA)
 
 
