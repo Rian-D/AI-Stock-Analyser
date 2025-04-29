@@ -19,3 +19,5 @@ Skills Acquired:
 - Built user interfaces with a strong UX focus using Streamlit
 - Enhanced knowledge of financial data, sentiment analysis, and prompt engineering
 - Strengthened skills in Python, data manipulation, and deploying interactive AI apps
+
+![image](https://github.com/user-attachments/assets/033be882-ca13-4368-b634-0dd6e92ae0ae)
