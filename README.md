@@ -1,7 +1,7 @@
 Video Demonstration: 
 
-https://github.com/user-attachments/assets/24d7b5a9-3a98-45fd-aeb1-651202cbf5a7
 
+https://github.com/user-attachments/assets/9c4b8913-ffb0-43a5-a19f-21a4ebba2c0b
 
 
 Personal Python Project: Built a real-time stock analysis tool with AI-driven insights and a clean, interactive UI
