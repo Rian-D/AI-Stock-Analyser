@@ -1,3 +1,9 @@
+Video Demonstration: 
+
+https://github.com/user-attachments/assets/24d7b5a9-3a98-45fd-aeb1-651202cbf5a7
+
+
+
 Personal Python Project: Built a real-time stock analysis tool with AI-driven insights and a clean, interactive UI
 
 Technologies Used: Python, yFinance, VADER Sentiment Analysis, NewsAPI, Groq AI API, Streamlit, LangChain, Pandas, NumPy
