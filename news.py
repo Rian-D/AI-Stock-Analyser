@@ -1,6 +1,7 @@
 import os
 from newsapi import NewsApiClient
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from datetime import datetime, timedelta
 
 analyzer = SentimentIntensityAnalyzer()
 
@@ -16,7 +17,6 @@ NEWS_CARD_TEMPLATE = """
 def fetch_news(ticker, company_name, api_key, days=30, page_size=15):
     """Fetch relevant news articles for a given ticker and company name."""
     newsapi = NewsApiClient(api_key=api_key)
-    from datetime import datetime, timedelta
     domains = ','.join([
         'reuters.com',
         'bloomberg.com',
