@@ -4,28 +4,82 @@ Video Demonstration:
 https://github.com/user-attachments/assets/9c4b8913-ffb0-43a5-a19f-21a4ebba2c0b
 
 
-Personal Python Project: Built a real-time stock analysis tool with AI-driven insights and a clean, interactive UI
+# AI Stock Analysis Tool
 
-Technologies Used: Python, yFinance, VADER Sentiment Analysis, NewsAPI, Groq AI API, Streamlit, LangChain, Pandas, NumPy
+This tool provides AI-powered stock analysis, combining technical analysis, news sentiment analysis, and AI-generated insights using the Groq API.
 
-Key Contributions:
+## Prerequisites
 
-- Developed an end-to-end AI-powered application to analyse stock performance and investor sentiment
-- Fetched live stock data using yFinance and financial news via NewsAPI, then performed sentiment analysis using VADER to gauge public and media tone.
-- Integrated Groq API and LangChain to generate AI-driven summaries and investment insights in natural language.
-- Built an intuitive web UI using Streamlit, allowing users to input stock tickers and view sentiment scores, performance charts, and simplified financial breakdowns.
-- Used Pandas and NumPy for data cleaning, transformation, and statistical analysis.
-- Implemented custom prompts to simplify financial jargon and make the tool beginner-friendly.
+- Python 3.8 or higher
+- pip (Python package installer)
+- Git
 
-Skills Acquired:
+## Setup Instructions
 
-- Knowledge of the fundamentals of finance (e.g RSI, MACD, Bollinger Bands, Modern Portfolio Theory, Black-Litterman Model)
-- Experience in full-stack AI app development
-- Applied natural language processing and real-time API integration
-- Built user interfaces with a strong UX focus using Streamlit
-- Enhanced knowledge of financial data, sentiment analysis, and prompt engineering
-- Strengthened skills in Python, data manipulation, and deploying interactive AI apps
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Rian-D/ai-stock-analysis.git
+   cd ai-stock-analysis
+   ```
 
+2. **Create and Activate a Virtual Environment (Recommended)**
+   ```bash
+   # On macOS/Linux
+   python -m venv venv
+   source venv/bin/activate
+
+   # On Windows
+   python -m venv venv
+   .\venv\Scripts\activate
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Set Up Environment Variables**
+   Create a `.env` file in the root directory with the following variables:
+   ```
+   GROQ_API_KEY=your_groq_api_key
+   NEWS_API_KEY=your_news_api_key
+   ```
+   
+   You'll need to:
+   - Get a Groq API key from [Groq's website](https://console.groq.com) (free) 
+   - Get a News API key from [NewsAPI's website](https://newsapi.org) (free)
+
+## Running the Application
+
+1. **Start the Streamlit Application**
+   ```bash
+   streamlit run app.py
+   ```
+
+2. **Access the Application**
+   - The application will open in your default web browser
+   - If it doesn't open automatically, navigate to `http://localhost:8501`
+
+## Features
+
+- Real-time stock data analysis
+- News sentiment analysis
+- AI-powered insights using Groq
+- Interactive charts and visualizations
+- Historical data analysis
+
+## Troubleshooting
+
+If you encounter any issues:
+
+1. Ensure all dependencies are correctly installed
+2. Verify your API keys are correctly set in the `.env` file
+3. Check that you're using Python 3.8 or higher
+4. Make sure you're in the correct directory when running the application
+
+## Contributing
+
+Feel free to submit issues and enhancement requests! 
 
 
 
